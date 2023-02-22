@@ -27,13 +27,13 @@
 <table align="center">
   <thead>
     <tr>
-      <th align="center">
+      <th>
         <img width="20" height="1"> 
-        <p><small>#</small></p>
+        <p align="center"><small>#</small></p>
       </th>
-      <th align="center">
+      <th>
         <img width="300" height="1"> 
-        <p><small>NOME</small></p>
+        <p align="center"><small>NOME</small></p>
       </th>
       <th align="center">
         <img width="201" height="1">
@@ -43,10 +43,31 @@
   </thead>
   <tbody>
     <tr>
-      <td>01</td>
-      <td><a href="01-bateria">Bateria</a></td>
       <td align="center">
-        <a href="01-bateria"><img src=".github/bateria.png" width="300px" /></a>
+        01
+      </td>
+      <td align="center">
+        <a href="01-bateria">Bateria</a>
+        <p>Simulador de uma bateria</p>
+      </td>
+      <td align="center">
+        <a href="01-bateria">
+          <img src=".github/bateria.png" width="300px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        02
+      </td>
+      <td align="center">
+        <a href="02-relogio">Relógio</a>
+        <p>Relógio analógico e digital</p>
+      </td>
+      <td align="center">
+        <a href="02-relogio">
+          <img src=".github/relogio.png" width="300px" />
+        </a>
       </td>
     </tr>
   </tbody>
