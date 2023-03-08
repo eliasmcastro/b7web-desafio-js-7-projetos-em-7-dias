@@ -13,7 +13,7 @@
 <p align="center">Por Bonieky Lacerda - B7Web</p>
 
 <p align="center">
-  <a href="#como-executar-o-projeto">Como executar cada projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-executar-o-projeto">Como executar cada projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#desafios">Desafios</a>
 </p>
 
@@ -52,7 +52,7 @@
       </td>
       <td align="center">
         <a href="01-bateria">
-          <img src=".github/bateria.png" width="300px" />
+          <img src=".github/bateria.png" width="400px" />
         </a>
       </td>
     </tr>
@@ -66,7 +66,22 @@
       </td>
       <td align="center">
         <a href="02-relogio">
-          <img src=".github/relogio.png" width="300px" />
+          <img src=".github/relogio.png" width="400px" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        03
+      </td>
+      <td align="center">
+        <a href="03-clima">Clima</a>
+        <p>Exibe informações do clima</p>
+        <p>Criar uma conta no <a href="https://openweathermap.org" target="_blank">openweathermap</a> para utilizar a API</p>
+      </td>
+      <td align="center">
+        <a href="03-clima">
+          <img src=".github/clima.png" width="400px" />
         </a>
       </td>
     </tr>
