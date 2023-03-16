@@ -85,5 +85,19 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        04
+      </td>
+      <td align="center">
+        <a href="04-jogo-da-velha">Jogo da Velha</a>
+        <p>Clássico jogo da velha</p>
+      </td>
+      <td align="center">
+        <a href="04-jogo-da-velha">
+          <img src=".github/jogo-da-velha.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
