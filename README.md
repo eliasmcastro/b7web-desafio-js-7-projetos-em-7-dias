@@ -113,5 +113,19 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        06
+      </td>
+      <td align="center">
+        <a href="06-quiz">Quiz</a>
+        <p>Perguntas e respostas</p>
+      </td>
+      <td align="center">
+        <a href="06-quiz">
+          <img src=".github/quiz.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
