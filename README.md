@@ -127,5 +127,19 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        07
+      </td>
+      <td align="center">
+        <a href="07-arrasta-solta">Arrasta e Solta</a>
+        <p>Drag and drop</p>
+      </td>
+      <td align="center">
+        <a href="07-arrasta-solta">
+          <img src=".github/arrasta-solta.png" width="400px" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
